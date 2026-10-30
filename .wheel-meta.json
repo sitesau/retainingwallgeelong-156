@@ -1,0 +1,22 @@
+{
+  "wheel_id": 531,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-156",
+  "project": "retaining-walls-geelong-30992fd7e2116878a045a52ae38fbd72451447c",
+  "parent_t1_ref": "retainingwallgeelong-012",
+  "node_role": "buffer",
+  "money_target": "retainingwallgeelong.au",
+  "primary_kw": "retaining walls geelong",
+  "intended_url": "http://retaining-walls-geelong-30992fd7e2116878a045a52ae38fbd72451447c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "0b80001a8d85ac2b",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallgeelong-012/",
+      "anchor": "retaining walls geelong explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
